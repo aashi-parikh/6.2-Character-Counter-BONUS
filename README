@@ -1,0 +1,2 @@
+This program takes in a string, my_string and creates a dictionary that counts the number of times each character appears in my_string. Returns the created dictionary
+
